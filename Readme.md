@@ -1,6 +1,6 @@
 <div align="center">
 <img src="illustration.svg" />
-<h1>My Pressentations</h1>
+<h1>My Presentation</h1>
 <p>A list of the docs and slides that I've created.</p>
 </div>
 
