@@ -34,6 +34,7 @@
 |-------------|------------|--------|----------|
 |Software Testing   |Persian (fa)|        |[Persentation (ppsx)](https://github.com/0xaryan/Pressentation/raw/master/Software/Software%20Engineering/Software%20Testing.ppsx)|
 |Refactoring|Persian (fa)| |[PDF](https://github.com/0xaryan/Pressentation/blob/master/Software/Software%20Engineering/Refactoring.pdf)|
+|Refactoring - Slides|English| |[PDF](https://github.com/0xaryan/Pressentation/blob/master/Software/Software%20Engineering/Refactoring%20-%20Slides.pdf)|
 |DevOps|Persian (fa)| |[PDF](https://github.com/0xaryan/Pressentation/blob/master/Software/Software%20Engineering/DevOps.pdf)|
 |Unit Testing| English (en)| |[PowerPoint (pptx)](https://github.com/0xaryan/Pressentation/raw/master/Software/Software%20Engineering/Unit%20Testing/Unit%20Testing.pptx)<br>[PDF](https://github.com/0xaryan/Pressentation/raw/master/Software/Software%20Engineering/Unit%20Testing/Unit%20Testing.pdf)|
 |Software Production Process Models|Persian (fa)| |[PowerPoint (pptx)](https://github.com/0xaryan/Pressentation/blob/master/Software/Software%20Engineering/Software%20Production%20Process%20Models/Software%20Production%20Process%20Models.pptx)<br>[PDF](https://github.com/0xaryan/Pressentation/raw/master/Software/Software%20Engineering/Software%20Production%20Process%20Models/Software%20Production%20Process%20Models.pdf)|
