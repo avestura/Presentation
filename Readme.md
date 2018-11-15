@@ -72,6 +72,7 @@ Even-numbered docs created by my teammate Hasti Hassani Mougham
 |Nazariat Akhlagh Zist Mohiti|Persian (fa)|        |[PDF](https://github.com/0xaryan/Pressentation/raw/master/Sociology/Nazariat%20Akhlagh%20Zist%20Mohiti.pdf)|
 |Human Development Index|Persian (fa)|        |[PowerPoint (pptx)](https://github.com/0xaryan/Pressentation/raw/master/Sociology/HDI/Human%20Development%20Index.pptx)|
 |Human Development Index - Stats|Persian (fa)|        |[PowerPoint (pptx)](https://github.com/0xaryan/Pressentation/raw/master/Sociology/HDI/Human%20Development%20Index%20-%20Stats.pptx)|
+|Matthew Effect|Persian (fa)| |[PowerPoint (pptx)](https://github.com/0xaryan/Pressentation/raw/master/Sociology/Matthew%20Effect.pptx)|
 
 ## Physics
 
