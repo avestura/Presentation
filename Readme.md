@@ -12,6 +12,7 @@
     - [Database](#database)
 - [Hardware](#hardware)
     - [Microprocessor](#microprocessor)
+- [Network](#network)
 - [Economics](#economics)
 - [Sociology](#sociology)
 - [Physics](#physics)
@@ -51,6 +52,13 @@ Even-numbered docs created by my teammate Hasti Hassani Mougham
 |Report1 - Dancing Light|Persian (fa)|        |[PDF](https://github.com/0xaryan/Pressentation/raw/master/Hardware/Microprocessor/Report%201%20-%20Dancing%20Light.pdf)|
 |Report3 - 7 Segment|Persian (fa)|        |[PDF](https://github.com/0xaryan/Pressentation/raw/master/Hardware/Microprocessor/Report%203%20-%207Segment.pdf)|
 |Report5 - Dot Matrix|Persian (fa)|        |[PDF](https://github.com/0xaryan/Pressentation/raw/master/Hardware/Microprocessor/Report%205%20-%20DotMatrix.pdf)|
+
+## Network
+|Document     |Language    |Notes   |Download  |
+|-------------|------------|--------|----------|
+|UoG Services|Persian (fa)|Services that run on University of Guilan servers|[PDF](https://github.com/0xaryan/Presentation/raw/master/Network/UoG%20Services.pdf)|
+|LoRa and Sigfox|Persian (fa)| |[Word (docx)](https://github.com/0xaryan/Presentation/raw/master/Network/LoRa%20and%20Sigfox/LoRa%20and%20Sigfox.docx)<br>[PDF](https://github.com/0xaryan/Presentation/raw/master/Network/LoRa%20and%20Sigfox/LoRa%20and%20Sigfox.pdf)|
+|Internet 5G|Persian (5G)| |[Word (docx)](https://github.com/0xaryan/Presentation/raw/master/Network/Internet%205G/Internet%205G.docx)<br>[PDF](https://github.com/0xaryan/Presentation/raw/master/Network/Internet%205G/Internet%205G.pdf)|
 
 ## Economics
 |Document     |Language    |Notes   |Download  |
