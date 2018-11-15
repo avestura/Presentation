@@ -58,7 +58,7 @@ Even-numbered docs created by my teammate Hasti Hassani Mougham
 |-------------|------------|--------|----------|
 |UoG Services|Persian (fa)|Services that run on University of Guilan servers|[PDF](https://github.com/0xaryan/Presentation/raw/master/Network/UoG%20Services.pdf)|
 |LoRa and Sigfox|Persian (fa)| |[Word (docx)](https://github.com/0xaryan/Presentation/raw/master/Network/LoRa%20and%20Sigfox/LoRa%20and%20Sigfox.docx)<br>[PDF](https://github.com/0xaryan/Presentation/raw/master/Network/LoRa%20and%20Sigfox/LoRa%20and%20Sigfox.pdf)|
-|Internet 5G|Persian (5G)| |[Word (docx)](https://github.com/0xaryan/Presentation/raw/master/Network/Internet%205G/Internet%205G.docx)<br>[PDF](https://github.com/0xaryan/Presentation/raw/master/Network/Internet%205G/Internet%205G.pdf)|
+|Internet 5G|Persian (fa)| |[Word (docx)](https://github.com/0xaryan/Presentation/raw/master/Network/Internet%205G/Internet%205G.docx)<br>[PDF](https://github.com/0xaryan/Presentation/raw/master/Network/Internet%205G/Internet%205G.pdf)|
 
 ## Economics
 |Document     |Language    |Notes   |Download  |
