@@ -1,3 +1,5 @@
+<style>table{width:100%;}</style>
+
 <div align="center">
 <a href="#"><img src="illustration.svg" /></a>
 <h1>My Presentations</h1>
