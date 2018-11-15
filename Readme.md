@@ -44,7 +44,7 @@
 
 ## Hardware
 ### Microprocessor
-Even labs created by my teammate Hasti Hassani Mougham
+Even-numbered docs created by my teammate Hasti Hassani Mougham
 
 |Document     |Language    |Notes   |Download  |
 |-------------|------------|--------|----------|
@@ -68,7 +68,7 @@ Even labs created by my teammate Hasti Hassani Mougham
 ## Physics
 
 ### Physics Lab
-These documents created in partrentship with @Nikronic
+These documents created in partrentship with <a href="https://github.com/Nikronic">@Nikronic</a>
 
 |Document     |Language    |Notes   |Download  |
 |-------------|------------|--------|----------|
