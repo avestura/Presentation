@@ -1,6 +1,6 @@
 <div align="center">
 <a href="#software"><img src="illustration.svg" /></a>
-<h1>My Presentations</h1>
+<h1>My Docs and Presentations</h1>
 <p>A list of the docs and slides that I've created</p>
 </div>
 
