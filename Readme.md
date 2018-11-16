@@ -46,7 +46,7 @@
 
 ## Hardware
 ### Microprocessor
-Even-numbered docs created by my teammate Hasti Hassani Mougham
+Even-numbered docs created by my teammate [Hasti Hassani Mougham](https://github.com/hastiMoghadam)
 
 |Document     |Language    |Notes   |Download  |
 |-------------|------------|--------|----------|
