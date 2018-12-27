@@ -7,16 +7,16 @@
 ### Table of Content
 
 - [Software](#software)
-    - [Operating Systems](#operating-systems)
-    - [Software Engineering](#software-engineering)
-    - [Database](#database)
+  - [Operating Systems](#operating-systems)
+  - [Software Engineering](#software-engineering)
+  - [Database](#database)
 - [Hardware](#hardware)
-    - [Microprocessor](#microprocessor)
+  - [Microprocessor](#microprocessor)
 - [Network](#network)
 - [Economics](#economics)
 - [Sociology](#sociology)
 - [Physics](#physics)
-    - [Physics Lab](#physics-lab)
+  - [Physics Lab](#physics-lab)
 
 ## Software
 |Document     |Language    |Notes   |Download  |
@@ -57,6 +57,7 @@ Even-numbered docs created by my teammate [Hasti Hassani Mougham](https://github
 ## Network
 |Document     |Language    |Notes   |Download  |
 |-------------|------------|--------|----------|
+|Network Lab Docs|English (en)|Online Content|[View Online](https://networklab.readthedocs.io/en/latest/About/index.html)|
 |UoG Services|Persian (fa)|Services that run on University of Guilan servers|[PDF](https://github.com/0xaryan/Presentation/raw/master/Network/UoG%20Services.pdf)|
 |LoRa and Sigfox|Persian (fa)| |[Word (docx)](https://github.com/0xaryan/Presentation/raw/master/Network/LoRa%20and%20Sigfox/LoRa%20and%20Sigfox.docx)<br>[PDF](https://github.com/0xaryan/Presentation/raw/master/Network/LoRa%20and%20Sigfox/LoRa%20and%20Sigfox.pdf)|
 |Internet 5G|Persian (fa)| |[Word (docx)](https://github.com/0xaryan/Presentation/raw/master/Network/Internet%205G/Internet%205G.docx)<br>[PDF](https://github.com/0xaryan/Presentation/raw/master/Network/Internet%205G/Internet%205G.pdf)|
