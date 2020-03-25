@@ -4,6 +4,10 @@
 <p>A list of the docs and slides that I've created</p>
 </div>
 
+
+:warning: THIS REPO IS NOT UP TO DATE PLEASE USE [aryan.software/presentations](https://aryan.software/presentations)
+---
+
 ### Table of Content
 
 - [Software](#software)
